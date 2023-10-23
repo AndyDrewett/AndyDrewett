@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AndyDrewett
-- 👀 I’m interested in ...
 - 🌱 I’m currently studying computer science at university.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - andy.drewett@hotmail.co.uk
 
 <!---
