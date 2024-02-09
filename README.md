@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndyDrewett
-- 🌱 I’m currently studying computer science at university.
+- 🌱 I’m currently studying Computer Sceince (BSc) at Swansea university.
 - 📫 How to reach me - andy.drewett@hotmail.co.uk
 
 <!---
