@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndyDrewett
-- 🌱 I’m currently studying Computer Sceince (BSc) at Swansea university.
+- 🌱 Currently a Full-Stack Software Developer @ Hoowla
 - 📫 How to reach me - andy.drewett@hotmail.co.uk
 
 <!---
